@@ -1,0 +1,53 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+#top {
+    text-align:center;
+
+}
+
+#logo {
+    color: green;
+    background-color:greenyellow;
+    display:inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+
+
+}
+
+#logo-name {
+    font-size:32px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#navigation a {
+    color: gray;
+    padding: 8px;
+}
+
+#navigation a:hover {
+    color: greenyellow;
+    font-weight: bold;
+}
+
+#image img {
+    width: 100%;
+}
+
+#main {
+    max-width: 800px;
+    margin:auto;
+
+}
+
+#footer {
+    text-align: center;
+    color: gray;
+    padding: 16px;
+}
